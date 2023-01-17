@@ -80,6 +80,9 @@ iconivy-icon{
     width: 50px;
     height: 50px;
 }
+.m-button-show-all{
+    margin: 0;
+}
 @media screen and (min-width: 1024px) {
     .font-01{
     font-size: var(--font-01);
@@ -115,6 +118,9 @@ iconivy-icon{
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .m-button-show-all{
+        margin-right: 3rem;
     }
     
 }  
