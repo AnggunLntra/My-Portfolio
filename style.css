@@ -59,7 +59,7 @@
 .width-auto{
     width: 100%
 }        
-.p{
+.p, .p-expe{
     padding: 10px;
 }
 .box-icon{
@@ -110,6 +110,9 @@ iconivy-icon{
     }
     .p-top{
         padding: 3rem;
+    }
+    .p-expe{
+        padding: 0;
     }
     .box-icon{
         padding: 10px 10px;
