@@ -63,13 +63,22 @@
     padding: 10px;
 }
 .box-icon{
-    padding: 5px 10px;
+    padding: 10px 10px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .min-vh{
     min-height: 50vh;
 }
 .p-top{
     padding: 1rem;
+}
+iconivy-icon{
+    width: 50px;
+    height: 50px;
 }
 @media screen and (min-width: 1024px) {
     .font-01{
