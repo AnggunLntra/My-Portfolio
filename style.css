@@ -111,6 +111,9 @@ iconivy-icon{
     .p-top{
         padding: 3rem;
     }
+    .pr{
+        padding-right: 3rem;
+    }    
     .p-expe{
         padding: 0;
     }
